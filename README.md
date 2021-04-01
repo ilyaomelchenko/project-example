@@ -1,3 +1,3 @@
 # project example
 
-First Repo
+First Repo, the initial understanding that led to success.
